@@ -1,0 +1,7 @@
+353,Shuppet,Fantasma,Sombrio
+374,Beldum,Metal / Psíquico,Fogo
+359,Absol,Sombrio,Lutador
+280,Ralts,Psíquico,Fantasma
+252,Treecko,Grama,Fogo
+349,Feebas,Água,Elétrico
+255,Torchic,Fogo,Água
